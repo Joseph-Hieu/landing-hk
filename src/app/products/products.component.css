@@ -1,0 +1,80 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.page-pro {
+    background-color: #3d2410;
+}
+
+.card-body {
+    padding: 0.3rem 0;
+    background-color: #fff !important;
+}
+
+.mt-2, .my-2{
+    margin: 1rem 0!important;
+}
+
+.title {
+    font-size: 36pt;
+    color: #e4c566;
+    text-align: center;
+    padding: 15px 0 25px 0;
+    
+}
+
+#products { 
+    padding: 20px 0;    
+    text-align: center;
+}
+
+#products .inf-pro {
+    background-color: #fff;
+}
+
+     
+.inf-pro img{
+    border: none;
+    max-width:330px;
+    max-height:295px;
+    width: auto;
+    height: auto;
+
+}
+
+.inf-pro .card-title,h5,h2{
+    color: #3d2410;
+}
+
+button {
+    border: none;
+    background: #fff;
+}
+
+.img-btn {
+    position: relative;
+}
+
+.img-btn img{
+    display: block;
+    max-width:100px;
+    max-height:90px;
+    width: auto;
+    height: auto;   
+}
+
+.text-btn {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    font-size: 1.2em;
+    color: #e4c566;
+}
+
+.text-center a{
+    text-decoration: none;
+}
+.text-center a:hover{
+    color: #3d2410;
+}
+.text-default{
+    color: #3d2410;
+}

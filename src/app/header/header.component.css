@@ -1,0 +1,35 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.navbar a {
+    text-decoration: none;
+}
+
+.head-bar {
+    background-color:#3d2410;
+}
+/* .head-bg {
+    background-color:#3d2410;
+    height: 100px;
+    position: relative;
+}
+.head-bg:before {
+    content:"";
+    background-color:#3d2410;
+    position: absolute;
+    height: 100%;
+    width: 4000px;
+    left: -2000px;
+    z-index: -1;
+} */
+
+.logo img {
+    padding-left: 120px;
+}
+.inf:hover{
+    color: #e4c566;
+}
+.inf {
+    font-size: 1.5em;
+    padding-right: 120px;
+    color: #e4c566;
+}
